@@ -3,9 +3,9 @@
   "description": "Fast checking of top level dependencies based on version numbers",
   "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
   "bin": "bin/deps-ok.js",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "bugs": {
-    "url": "https://github.com/bahmutov/deps-ok/issues"
+    "url": "https://github.com/indigostudio/deps-ok/issues"
   },
   "contributors": [
     "Tilman Potthof"
@@ -47,7 +47,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bahmutov/deps-ok.git"
+    "url": "https://github.com/indigostudio/deps-ok.git"
   },
   "files": [
     "index.js",
