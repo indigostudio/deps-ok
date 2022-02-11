@@ -3,7 +3,7 @@
   "description": "Fast checking of top level dependencies based on version numbers",
   "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
   "bin": "bin/deps-ok.js",
-  "version": "0.0.0-development",
+  "version": "1.5.0",
   "bugs": {
     "url": "https://github.com/bahmutov/deps-ok/issues"
   },
