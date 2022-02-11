@@ -62,7 +62,7 @@
     "test": "npm run itself && npm run unit && npm run e2e",
     "itself": "node index.js",
     "unit": "jest src/__tests__",
-    "e2e": "jest 'test/e2e.test.js'",
+    "e2e": "jest test/e2e.test.js",
     "commit": "git-issues && commit-wizard",
     "issues": "git-issues",
     "size": "t=\"$(npm pack .)\"; wc -c \"${t}\"; tar tvf \"${t}\"; rm \"${t}\";",

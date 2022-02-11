@@ -1,7 +1,7 @@
 const join = require('path').join
 const relative = join.bind(null, __dirname)
 const ERROR_EXIT_CODE = 255
-const execaWrap = require('execa-wrap')
+const execaWrap = require('./test-utils').execaWrap
 
 const expectSuccess = (output) => {
   output = output.trim()
