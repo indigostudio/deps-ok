@@ -1,5 +1,7 @@
 # deps-ok
 
+> Fork `@indigo/deps-ok` fixing audit issues
+
 Fast checking of top level NPM and Bower dependencies based on version numbers.
 
 [![NPM info][nodei.co]](https://npmjs.org/package/deps-ok)
