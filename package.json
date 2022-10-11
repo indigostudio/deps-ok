@@ -3,7 +3,7 @@
   "description": "Fast checking of top level dependencies based on version numbers",
   "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
   "bin": "bin/deps-ok.js",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "bugs": {
     "url": "https://github.com/indigostudio/deps-ok/issues"
   },
@@ -11,13 +11,13 @@
     "Tilman Potthof"
   ],
   "dependencies": {
-    "check-more-types": "2.24.0",
-    "debug": "4.3.3",
-    "lazy-ass": "1.6.0",
-    "lodash": "4.17.21",
-    "minimist": "1.2.5",
-    "quote": "0.4.0",
-    "semver": "7.3.5"
+    "check-more-types": "^2.24.0",
+    "debug": "^4.3.3",
+    "lazy-ass": "^1.6.0",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.6",
+    "quote": "^0.4.0",
+    "semver": "^7.3.5"
   },
   "devDependencies": {
     "execa-wrap": "1.4.0",
